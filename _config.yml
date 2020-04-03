@@ -1,1 +1,3 @@
-　baseurl: /iukv.github.io
+theme: jekyll-theme-cayman
+name: iukv
+markdown: kramdown
