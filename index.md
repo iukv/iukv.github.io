@@ -1,7 +1,7 @@
-　---
+---
 　　layout: default
-　　title: 我的Blog
-　　---
+　　title:iukv's Blog
+---
 
 　　<h2>{{ page.title }}</h2>
 
